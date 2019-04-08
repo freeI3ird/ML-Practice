@@ -1,0 +1,56 @@
+,data,pos_tags
+0,"your card is blocked
+","[('your', 'PRP$'), ('card', 'NN'), ('is', 'VBZ'), ('blocked', 'VBN')]"
+1,"your card blocked now
+","[('your', 'PRP$'), ('card', 'NN'), ('blocked', 'VBD'), ('now', 'RB')]"
+2,"we will block your card
+","[('we', 'PRP'), ('will', 'MD'), ('block', 'VB'), ('your', 'PRP$'), ('card', 'NN')]"
+3,"I BLOCK YOUR CARD
+","[('I', 'PRP'), ('BLOCK', 'VBP'), ('YOUR', 'NNP'), ('CARD', 'NNP')]"
+4,"so meenakshi sharma your credit card is now blocked & no one use ur credit card
+","[('so', 'RB'), ('meenakshi', 'JJ'), ('sharma', 'VB'), ('your', 'PRP$'), ('credit', 'NN'), ('card', 'NN'), ('is', 'VBZ'), ('now', 'RB'), ('blocked', 'VBN'), ('&', 'CC'), ('no', 'DT'), ('one', 'NN'), ('use', 'NN'), ('ur', 'JJ'), ('credit', 'NN'), ('card', 'NN')]"
+5,"i have blocked your card
+","[('i', 'NNS'), ('have', 'VBP'), ('blocked', 'VBN'), ('your', 'PRP$'), ('card', 'NN')]"
+6,"your card is block , now
+","[('your', 'PRP$'), ('card', 'NN'), ('is', 'VBZ'), ('block', 'JJ'), (',', ','), ('now', 'RB')]"
+7,"your card has been bblock
+","[('your', 'PRP$'), ('card', 'NN'), ('has', 'VBZ'), ('been', 'VBN'), ('bblock', 'NN')]"
+8,"ok dont worry about it. your card is now block . no one can use it
+","[('ok', 'JJ'), ('dont', 'NN'), ('worry', 'VBP'), ('about', 'IN'), ('it.', 'NNS'), ('your', 'PRP$'), ('card', 'NN'), ('is', 'VBZ'), ('now', 'RB'), ('block', 'RB'), ('.', '.'), ('no', 'DT'), ('one', 'NN'), ('can', 'MD'), ('use', 'VB'), ('it', 'PRP')]"
+9,"mam we blocked ur card so no need to worry now and u can make a request for your new card to usd
+","[('mam', 'NN'), ('we', 'PRP'), ('blocked', 'VBD'), ('ur', 'JJ'), ('card', 'NN'), ('so', 'IN'), ('no', 'DT'), ('need', 'NN'), ('to', 'TO'), ('worry', 'VB'), ('now', 'RB'), ('and', 'CC'), ('u', 'JJ'), ('can', 'MD'), ('make', 'VB'), ('a', 'DT'), ('request', 'NN'), ('for', 'IN'), ('your', 'PRP$'), ('new', 'JJ'), ('card', 'NN'), ('to', 'TO'), ('usd', 'VB')]"
+10,"mam we have blocked your credit card
+","[('mam', 'NN'), ('we', 'PRP'), ('have', 'VBP'), ('blocked', 'VBN'), ('your', 'PRP$'), ('credit', 'NN'), ('card', 'NN')]"
+11,"ok blocked your credit card
+","[('ok', 'JJ'), ('blocked', 'VBD'), ('your', 'PRP$'), ('credit', 'NN'), ('card', 'NN')]"
+12,"ok I am blocking your card
+","[('ok', 'NN'), ('I', 'PRP'), ('am', 'VBP'), ('blocking', 'VBG'), ('your', 'PRP$'), ('card', 'NN')]"
+13,"sorry i do not know how to block the credit card.
+","[('sorry', 'NN'), ('i', 'NNS'), ('do', 'VBP'), ('not', 'RB'), ('know', 'VB'), ('how', 'WRB'), ('to', 'TO'), ('block', 'VB'), ('the', 'DT'), ('credit', 'NN'), ('card', 'NN'), ('.', '.')]"
+14,"sorry i cant block your card.
+","[('sorry', 'NN'), ('i', 'NN'), ('cant', 'VBP'), ('block', 'VB'), ('your', 'PRP$'), ('card', 'NN'), ('.', '.')]"
+15,"no your card is not blocked
+","[('no', 'DT'), ('your', 'PRP$'), ('card', 'NN'), ('is', 'VBZ'), ('not', 'RB'), ('blocked', 'VBN')]"
+16,"you can send to the mail to yuor bank for blocking
+","[('you', 'PRP'), ('can', 'MD'), ('send', 'VB'), ('to', 'TO'), ('the', 'DT'), ('mail', 'NN'), ('to', 'TO'), ('yuor', 'VB'), ('bank', 'NN'), ('for', 'IN'), ('blocking', 'VBG')]"
+17,"ok first call costomer care and block this card
+","[('ok', 'NN'), ('first', 'RB'), ('call', 'VB'), ('costomer', 'NN'), ('care', 'NN'), ('and', 'CC'), ('block', 'NN'), ('this', 'DT'), ('card', 'NN')]"
+18,"ohkk i check that miss meenakshi there is no transaction is held before or after blocking thw card
+","[('ohkk', 'NN'), ('i', 'NN'), ('check', 'VBP'), ('that', 'IN'), ('miss', 'VBP'), ('meenakshi', 'NN'), ('there', 'EX'), ('is', 'VBZ'), ('no', 'DT'), ('transaction', 'NN'), ('is', 'VBZ'), ('held', 'VBN'), ('before', 'IN'), ('or', 'CC'), ('after', 'IN'), ('blocking', 'VBG'), ('thw', 'JJ'), ('card', 'NN')]"
+19,"call in credit card helpline centre and block your card immidiately
+","[('call', 'NN'), ('in', 'IN'), ('credit', 'NN'), ('card', 'NN'), ('helpline', 'NN'), ('centre', 'NN'), ('and', 'CC'), ('block', 'VB'), ('your', 'PRP$'), ('card', 'NN'), ('immidiately', 'RB')]"
+20,"firstly you may call the tollfree no to block your card then vidit your branch
+","[('firstly', 'RB'), ('you', 'PRP'), ('may', 'MD'), ('call', 'VB'), ('the', 'DT'), ('tollfree', 'JJ'), ('no', 'DT'), ('to', 'TO'), ('block', 'VB'), ('your', 'PRP$'), ('card', 'NN'), ('then', 'RB'), ('vidit', 'VB'), ('your', 'PRP$'), ('branch', 'NN')]"
+21,"sir your card can only be block on request of card holder in the branch or by tollfree no.
+","[('sir', 'VB'), ('your', 'PRP$'), ('card', 'NN'), ('can', 'MD'), ('only', 'RB'), ('be', 'VB'), ('block', 'VBN'), ('on', 'IN'), ('request', 'NN'), ('of', 'IN'), ('card', 'NN'), ('holder', 'NN'), ('in', 'IN'), ('the', 'DT'), ('branch', 'NN'), ('or', 'CC'), ('by', 'IN'), ('tollfree', 'JJ'), ('no', 'DT'), ('.', '.')]"
+22,"ok i try to block your card
+","[('ok', 'NN'), ('i', 'NN'), ('try', 'VBP'), ('to', 'TO'), ('block', 'VB'), ('your', 'PRP$'), ('card', 'NN')]"
+23,"i am trying to block your cae
+","[('i', 'NN'), ('am', 'VBP'), ('trying', 'VBG'), ('to', 'TO'), ('block', 'VB'), ('your', 'PRP$'), ('cae', 'NN')]"
+24,"okk done miss i submitted your request to block your card you will very soon get a confirmaton sms on your registered number.
+","[('okk', 'NN'), ('done', 'VBN'), ('miss', 'NN'), ('i', 'NN'), ('submitted', 'VBD'), ('your', 'PRP$'), ('request', 'NN'), ('to', 'TO'), ('block', 'VB'), ('your', 'PRP$'), ('card', 'NN'), ('you', 'PRP'), ('will', 'MD'), ('very', 'RB'), ('soon', 'RB'), ('get', 'VB'), ('a', 'DT'), ('confirmaton', 'NN'), ('sms', 'NN'), ('on', 'IN'), ('your', 'PRP$'), ('registered', 'JJ'), ('number', 'NN'), ('.', '.')]"
+25,"ok do want to block your card?
+","[('ok', 'NNS'), ('do', 'VBP'), ('want', 'VB'), ('to', 'TO'), ('block', 'VB'), ('your', 'PRP$'), ('card', 'NN'), ('?', '.')]"
+26,"Do you want me to block your card?
+","[('Do', 'VBP'), ('you', 'PRP'), ('want', 'VB'), ('me', 'PRP'), ('to', 'TO'), ('block', 'VB'), ('your', 'PRP$'), ('card', 'NN'), ('?', '.')]"
+27,Have you blocked your card ?,"[('Have', 'VBP'), ('you', 'PRP'), ('blocked', 'VBN'), ('your', 'PRP$'), ('card', 'NN'), ('?', '.')]"
